@@ -10,6 +10,17 @@
 9. Count the number of content items in each genre
 10.Find each year and the average numbers of content release in India on netflix. 
 11. List all movies that are documentaries
+
+
+
+
+
+
+
+
+
+
+
 overview
 This project analyzes Netflix content using SQL queries.
 It covers trends like movie vs TV show count, genre popularity, and top countries.
